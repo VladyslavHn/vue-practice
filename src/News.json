@@ -1,0 +1,29 @@
+{
+  "news": [
+    {
+      "title": "AI Breakthrough: New Quantum Processor Achieves Unprecedented Speed",
+      "summary": "Researchers from a leading tech company have unveiled a revolutionary quantum processor that outperforms classical supercomputers by a factor of 1000. This advancement is expected to transform industries like pharmaceuticals, space exploration, and cryptography.",
+      "category": "Technology"
+    },
+    {
+      "title": "Global Initiative Launched to Combat Ocean Plastic Pollution",
+      "summary": "A coalition of 50 countries has committed to a new international treaty aimed at reducing ocean plastic pollution by 90% by 2030. The agreement includes strict regulations on plastic production and waste management, along with funding for innovative clean-up technologies.",
+      "category": "Environment"
+    },
+    {
+      "title": "Breakthrough in Cancer Research: New Drug Shows 95% Success in Trials",
+      "summary": "A new cancer drug developed by scientists has shown an astonishing 95% success rate in early clinical trials, offering hope to millions of patients worldwide. The drug works by targeting the DNA of cancer cells, effectively halting their ability to multiply.",
+      "category": "Health"
+    },
+    {
+      "title": "Mars Colony Project Set for 2035: International Consortium Plans First Human Settlement",
+      "summary": "An international space consortium has announced plans to establish the first permanent human settlement on Mars by 2035. The project involves constructing habitable domes, self-sustaining farms, and water extraction systems.",
+      "category": "Space"
+    },
+    {
+      "title": "Historic Peace Deal Signed in the Middle East",
+      "summary": "Long-time rival nations in the Middle East have signed a comprehensive peace agreement, ending decades of conflict. The deal includes provisions for shared economic ventures, regional security cooperation, and humanitarian aid programs.",
+      "category": "Politics"
+    }
+  ]
+}
